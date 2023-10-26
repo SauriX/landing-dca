@@ -1,0 +1,11 @@
+//Descargar por pimera ves el poyecto ejecutar
+npm install
+
+// server local
+npm run serve
+
+//comando para produccion
+npm run build
+
+
+// cambia extencion del index por php
